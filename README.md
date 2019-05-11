@@ -2,7 +2,7 @@
 
 ## Description
 
-In this projects serie I compile what I learned while exploring the theory behind a old Kaggle problem, in the present case: Santa's Stolen Sleigh, which ended on January 8 2016.
+In this projects serie I compile what I learned while exploring the theory behind an old Kaggle problem, in the present case: Santa's Stolen Sleigh, which ended on January 8 2016.
 
 ## The problem statement
 
